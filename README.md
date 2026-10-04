@@ -50,7 +50,7 @@ $ cat now.txt
 |---|---|---|
 | **Fairtiq** | Android SDK Developer | SDK release manager, fixed journey tracking gaps caused by Android background limits |
 | **Amazon (eero)** | Software Development Engineer | Cut wired device setup from ~3 min to ~90 sec, delivered Backup Internet, hackathon winner |
-| **Progoti Systems** | Software Engineer | Built TallyKhata (10M+ downloads), led the move to Kotlin, Spring Boot services |
+| **Progoti Systems** | Software Engineer | Built TallyKhata, a bookkeeping app for micro-merchants (10M+ downloads), a Payment Wallet on Android  |
 
 ## 🧰 Tech I work with
 
