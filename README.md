@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Avik+%F0%9F%91%8B;Android+%26+Kotlin+Multiplatform+Engineer;Expanding+into+backend+and+event+streaming;Expanding+into+full+stack+web;Building+with+AI+in+the+loop" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Avik+%F0%9F%91%8B;MetalHead+Coder+%F0%9F%A4%98" alt="Hi, I'm Avik. MetalHead Coder." />
 
-**Software Engineer in Berlin** · Ex Amazon (eero) · Fairtiq · Progoti Systems
+**Software Engineer in Berlin** · Ex-Amazon
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://avik-portfolio-inky.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avik-chowdhury/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://avik-sharma-chy.medium.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avik.chowdhury14@gmail.com)
-
-🟢 **Open to long term roles in Berlin and across Germany · hybrid or remote**
 
 </div>
 
@@ -38,7 +36,7 @@ $ cat now.txt
 
 | App | What it is | Link |
 |---|---|---|
-| **Leben in Deutschland** | Prep app for Germany's naturalisation test, built with Kotlin Multiplatform. I passed with a perfect score using it. | [Google Play](https://play.google.com/store/apps/details?id=org.metalheadcoder.lebenindeutschland) |
+| **Leben in Deutschland** | Prep app for Germany's naturalisation test, built with Kotlin Multiplatform. | [Google Play](https://play.google.com/store/apps/details?id=org.metalheadcoder.lebenindeutschland) |
 | **FocusCells** | A grid based puzzle game that trains focus, with streaks and home screen widgets. | [Google Play](https://play.google.com/store/apps/details?id=org.metalheadcoder.focuscells) |
 | **eero** | Amazon's app for setting up and managing mesh Wi-Fi in millions of homes. Built at Amazon. | [Google Play](https://play.google.com/store/apps/details?id=com.eero.android) |
 | **Fairtiq** | Public transport ticketing app. Worked on the app and its Android SDK. | [Google Play](https://play.google.com/store/apps/details?id=com.fairtiq.android) |
@@ -46,11 +44,11 @@ $ cat now.txt
 
 ## 💼 Experience
 
-| Company | Role | Highlights |
-|---|---|---|
-| **Fairtiq** | Android SDK Developer | SDK release manager, fixed journey tracking gaps caused by Android background limits |
-| **Amazon (eero)** | Software Development Engineer | Cut wired device setup from ~3 min to ~90 sec, delivered Backup Internet, hackathon winner |
-| **Progoti Systems** | Software Engineer | Built TallyKhata, a bookkeeping app for micro-merchants (10M+ downloads), a Payment Wallet on Android  |
+| Company | Role |
+|---|---|
+| **Fairtiq** | Android SDK Developer |
+| **Amazon (eero)** | Software Development Engineer |
+| **Progoti Systems** | Software Engineer |
 
 ## 🧰 Tech I work with
 
