@@ -76,6 +76,11 @@ $ cat now.txt
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Found 12 Testers for Google Play Closed Testing, Twice](https://avik-sharma-chy.medium.com/how-i-found-12-testers-for-google-play-closed-testing-twice-b3472b2dd571?source=rss-23ff44591f1------2)
+- [How I Built Free and Full Build Flavors for Android in my KMP codebase](https://medium.com/swlh/how-i-built-free-and-full-build-flavors-for-android-in-my-kmp-codebase-511bffdcc28c?source=rss-23ff44591f1------2)
+- [How I Structured My First KMP App: Modules, Layers and Source Sets](https://avik-sharma-chy.medium.com/how-i-structured-my-first-kmp-app-modules-layers-and-source-sets-43cda8cbebf6?source=rss-23ff44591f1------2)
+- [From Idea to Google Play: The Challenges of My First KMP App](https://avik-sharma-chy.medium.com/from-idea-to-google-play-the-challenges-of-my-first-kmp-app-211d948af33b?source=rss-23ff44591f1------2)
+- [A Deep Dive into Stacked PRs on GitHub](https://avik-sharma-chy.medium.com/what-i-learned-running-githubs-stacked-prs-end-to-end-7d4002e345ad?source=rss-23ff44591f1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles](https://avik-sharma-chy.medium.com/)
