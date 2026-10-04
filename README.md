@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Avik+%F0%9F%91%8B;Android+%26+Kotlin+Multiplatform+Engineer;Exploring+backend+and+event+streaming;Building+with+AI+in+the+loop" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Avik+%F0%9F%91%8B;Android+%26+Kotlin+Multiplatform+Engineer;Expanding+into+backend+and+event+streaming;Expanding+into+full+stack+web;Building+with+AI+in+the+loop" alt="Typing intro" />
 
 **Software Engineer in Berlin** · Ex Amazon (eero) · Fairtiq · Progoti Systems
 
