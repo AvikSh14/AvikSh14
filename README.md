@@ -16,7 +16,7 @@
 ```bash
 $ whoami
 Avik Sharma Chowdhury
-Android and Kotlin Multiplatform engineer, expanding into backend, event streaming and full stack
+Software engineer with a background in Android and Kotlin Multiplatform, expanding into backend, event streaming and full stack
 
 $ cat now.txt
 → Working as an independent developer while looking for my next long term role
