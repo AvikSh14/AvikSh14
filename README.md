@@ -78,7 +78,7 @@ $ cat now.txt
 - [How I Built Free and Full Build Flavors for Android in my KMP codebase](https://avik-sharma-chy.medium.com/how-i-built-free-and-full-build-flavors-for-android-in-my-kmp-codebase-511bffdcc28c?source=rss-23ff44591f1------2)
 - [How I Structured My First KMP App: Modules, Layers and Source Sets](https://avik-sharma-chy.medium.com/how-i-structured-my-first-kmp-app-modules-layers-and-source-sets-43cda8cbebf6?source=rss-23ff44591f1------2)
 - [From Idea to Google Play: The Challenges of My First KMP App](https://avik-sharma-chy.medium.com/from-idea-to-google-play-the-challenges-of-my-first-kmp-app-211d948af33b?source=rss-23ff44591f1------2)
-- [A Deep Dive into Stacked PRs on GitHub](https://avik-sharma-chy.medium.com/what-i-learned-running-githubs-stacked-prs-end-to-end-7d4002e345ad?source=rss-23ff44591f1------2)
+- [A Deep Dive into Stacked PRs on GitHub](https://blog.stackademic.com/what-i-learned-running-githubs-stacked-prs-end-to-end-7d4002e345ad?source=rss-23ff44591f1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles](https://avik-sharma-chy.medium.com/)
