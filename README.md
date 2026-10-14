@@ -23,7 +23,7 @@ $ cat now.txt
 → Building a real time fraud detection pipeline with Spring Boot, Kafka and Flink
 → Shipping my own Kotlin Multiplatform apps on Google Play
 → Building for the web with Next.js, React and TypeScript
-→ Using AI agents like Claude and Gemini every day, with a human in the loop
+→ Experimenting and building with AI
 → Writing about what I learn on Medium
 ```
 
